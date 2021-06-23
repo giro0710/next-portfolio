@@ -15,6 +15,9 @@
 # production
 /build
 
+# psd
+/public/images/icons/psd
+
 # misc
 .DS_Store
 *.pem
