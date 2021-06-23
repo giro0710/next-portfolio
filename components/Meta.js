@@ -24,7 +24,6 @@ const Meta = ({title, keywords, description, image, url}) => {
       <meta name="twitter:card" content={image} />
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
       <link rel="preconnect" href="https://fonts.gstatic.com" />
-      <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap" rel="stylesheet"></link>
     </Head>
   )
 }
